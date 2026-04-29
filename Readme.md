@@ -27,34 +27,34 @@ learning:   Always
 
 <table>
   <tr>
-    <td align="center" width="220"><b>🤖 AI / Machine Learning</b><br><br>
+    <td align="center" width="220"><b> AI / Machine Learning</b><br><br>
       <img src="https://img.shields.io/badge/GenAI-FF6F00?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/ML_Algorithms-8E24AA?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
-    <td align="center" width="220"><b>🌐 Full-Stack Web</b><br><br>
+    <td align="center" width="220"><b> Full-Stack Web</b><br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     </td>
-    <td align="center" width="220"><b>🗄️ Databases</b><br><br>
+    <td align="center" width="220"><b> Databases</b><br><br>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>💻 Systems & Languages</b><br><br>
+    <td align="center"><b> Systems & Languages</b><br><br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
     </td>
-    <td align="center"><b>🎨 Frontend & Styling</b><br><br>
+    <td align="center"><b> Frontend & Styling</b><br><br>
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
     </td>
-    <td align="center"><b>⚙️ Dev Tools</b><br><br>
+    <td align="center"><b> Dev Tools</b><br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
     </td>
