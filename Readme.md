@@ -58,7 +58,6 @@ philosophy  : Build fast → Break things → Fix smarter
 ![React](https://img.shields.io/badge/React-1D9E75?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-0F6E56?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-085041?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F6E56?style=flat-square&logo=fastapi&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-085041?style=flat-square)
 
@@ -152,7 +151,7 @@ philosophy  : Build fast → Break things → Fix smarter
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -169,11 +168,11 @@ philosophy  : Build fast → Break things → Fix smarter
 ## `> currently`
 
 ```text
-🔭  Exploring    →  Multi-agent orchestration & advanced RAG
-🌱  Learning     →  HyDE, CRAG, Self-RAG patterns
-👯  Open to      →  Collaborating on GenAI & open-source
-💬  Ask me about →  RAG, LangChain, React, Next.js, FastAPI
-⚡  Fun fact     →  Started with C, now I talk to LLMs for a living
+  Exploring    →  Multi-agent orchestration & advanced RAG
+  Learning     →  HyDE, CRAG, Self-RAG patterns
+  Open to      →  Collaborating on GenAI & open-source
+  Ask me about →  RAG, LangChain, React, Next.js, FastAPI
+  Fun fact     →  Started with C, now I talk to LLMs for a living
 ```
 
 ---
