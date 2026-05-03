@@ -188,6 +188,4 @@ philosophy  : Build fast → Break things → Fix smarter
 </div>
 
 
-3. **Commit** → Go to **Actions** → **Generate Snake** → **Run workflow**
 
-</details>
