@@ -187,48 +187,6 @@ philosophy  : Build fast → Break things → Fix smarter
 
 </div>
 
----
-
-<details>
-<summary>⚙️ <b>Setup: Contribution Snake Animation</b></summary>
-
-<br>
-
-1. Go to your **`Lakshya11223/Lakshya11223`** repo → **Actions** → **New Workflow** → **set up a workflow yourself**
-2. Name it `snake.yml` and paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Lakshya11223
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 3. **Commit** → Go to **Actions** → **Generate Snake** → **Run workflow**
 
